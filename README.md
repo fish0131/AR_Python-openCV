@@ -13,7 +13,7 @@ Basic Structure：
    
    ![image](https://user-images.githubusercontent.com/68525727/126655385-3b00ca35-5650-4366-a0b2-741debc586df.png)
 
-   Let us consider the first set of corresponding points — (x_1,y_1) in the first image and (x_2,y_2)} in the second image. Then, the Homography H maps them in the following way
+   Let us consider the first set of corresponding points — (x1,y1) in the first image and (x2,y2) in the second image. Then, the Homography H maps them in the following way
    
    ![image](https://user-images.githubusercontent.com/68525727/126655580-e33fa933-d826-442e-9eac-41eca3a02f4e.png)
 
