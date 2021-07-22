@@ -6,7 +6,8 @@ Basic Structure：
 2. Read Data
 3. Recognize Data
 4. Homography
-   ![image](https://user-images.githubusercontent.com/68525727/126653785-0b17bf5c-754d-4e34-81c3-576c6bc66191.png)
+   ![螢幕擷取畫面 2021-07-22 221514](https://user-images.githubusercontent.com/68525727/126654267-a7bd4faf-f388-41fe-86c8-693fa72ae5b8.png)
+
 
 6. Pose Estimation
 7. Display
